@@ -99,17 +99,6 @@ Press `Ctrl+b` and then `d`
     ─「 ᴄʀᴇᴅɪᴛs 」─
 </h3>
 
-- <b>[Noob](https://github.com/Devilking12)  ➻  [sᴏᴍᴇᴛʜɪɴɢ](https://github.com/Devilking12/FallenRobot) </b>
-
-
-
-
-
-
-
-
-
- 
 <b>ᴀɴᴅ ᴀʟʟ [Noob](https://github.com/Devilking12/FallenRobot/graphs/contributors) ᴡʜᴏ ʜᴇʟᴩᴇᴅ ɪɴ ᴍᴀᴋɪɴɢ ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ ᴜsᴇғᴜʟ & ᴩᴏᴡᴇʀғᴜʟ 🖤 </b>
 
-━━━━━━━━━━━━━━━━━━━━
+
