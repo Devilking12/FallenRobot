@@ -5,7 +5,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://github.com/Devilking12/FallenRobot/blob/master/FallenRobot/resources/fglitch.gif">
+  <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Michan_management_bot)**_
@@ -25,7 +25,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ 
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg ">
+  <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg">
 </p>
 
 <p align="center">
