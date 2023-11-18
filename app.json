@@ -1,5 +1,5 @@
 {
-      "name": "Nobita_x_robot",
+      "name": "Michan_management_bot",
       "description": "Telegram Group Management Bot.",
       "logo": "https://te.legra.ph/file/815b43978340734505872.jpg",
       "keywords": [
@@ -61,17 +61,17 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "5710889435"
+         "value": "6743351101"
       },
       "START_IMG": {
          "description": "Telegraph link of the image which will be shown at start command.",
          "required": true,
-         "value": "https://te.legra.ph/file/e712139506d72444fccf8.jpg"
+         "value": "https://telegra.ph/file/e8d75c008360c8a5d7525.jpg "
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to Fallen Support than consider you made an enemy.",
          "required": true,
-         "value": "eng_hindi_chat_group"
+         "value": "https://t.me/+n-FgsomCT9Q0NTk1"
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information. Get yours from https://timezonedb.com/api",
