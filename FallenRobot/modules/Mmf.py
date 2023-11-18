@@ -20,7 +20,7 @@ async def handler(event):
     reply_message = await event.get_reply_message()
 
     if not reply_message.media:
-        await event.reply("
+        await event.reply(""
         return
 
     file = await bot.download_media(reply_message)
