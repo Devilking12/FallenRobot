@@ -1,5 +1,4 @@
 import requests, asyncio, random, psycopg2, json
-import matplotlib.pyplot as plt
 import numpy as np
 from io import BytesIO
 from config import SUDO_USERS
