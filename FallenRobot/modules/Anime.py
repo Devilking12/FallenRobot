@@ -5,8 +5,8 @@ import requests
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup, ParseMode, Update
 from telegram.ext import CallbackContext, CallbackQueryHandler
 
-from MukeshRobot import dispatcher,OWNER_ID
-from MukeshRobot.modules.disable import DisableAbleCommandHandler
+from FallenRobot import dispatcher,OWNER_ID
+from FallenRobot.modules.disable import DisableAbleCommandHandler
 
 
 def anime_quote():
