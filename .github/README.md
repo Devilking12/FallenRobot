@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/57af88b9571bd45ef6b11.jpg">
 </p>
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ғᴀʟʟᴇɴ ✘ ʀᴏʙᴏᴛ](https://t.me/Michan_management_bot)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [Michan_management_bot](https://t.me/Michan_management_bot)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
