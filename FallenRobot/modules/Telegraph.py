@@ -4,13 +4,13 @@ from datetime import datetime
 from PIL import Image
 from telegraph import Telegraph, exceptions, upload_file
 
-from MukeshRobot import telethn as tbot
-from MukeshRobot.events import register
+from FallenRobot import telethn as tbot
+from FalllenRobot.events import register
 
 Mukesh = "Controller"
 TMP_DOWNLOAD_DIRECTORY = "./"
 telegraph = Telegraph()
-r = telegraph.create_account(short_name=Mukesh)
+r = telegraph.create_account(short_name=Devil)
 auth_url = r["auth_url"]
 
 
