@@ -3,8 +3,8 @@ import textwrap
 
 from PIL import Image, ImageDraw, ImageFont
 
-from FallenROBOT import telethn as bot
-from FallenROBOT.events import register
+from FallenRobot import telethn as bot
+from FallenRobot.events import register
 
 
 @register(pattern="^/mmf ?(.*)")
@@ -62,7 +62,7 @@ async def drawText(image_path, text):
 
     else:
 
-        fnt = "./FallenROBOT/resources/default.ttf"
+        fnt = "./FallenRobot/resources/default.ttf"
 
     m_font = ImageFont.truetype(fnt, int((70 / 640) * i_width))
 
