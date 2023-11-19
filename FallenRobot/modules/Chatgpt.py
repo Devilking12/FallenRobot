@@ -1,7 +1,7 @@
 import os, time
 import openai
 from pyrogram import filters
-from FallenRobot import FallenRobot
+from FallenRobot import Yumikoo
 from pyrogram.enums import ChatAction, ParseMode
 from gtts import gTTS
 
