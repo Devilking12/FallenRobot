@@ -1,7 +1,7 @@
 import requests, asyncio, random, psycopg2, json
 import numpy as np
 from io import BytesIO
-from config import SUDO_USERS
+from fallenRobot import SUDO_USERS
 from pyrogram import *
 from pyrogram.types import *
 from Yumikoo import Yumikoo
