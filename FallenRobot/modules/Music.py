@@ -2,22 +2,22 @@ import os, aiofiles, aiohttp, random, textwrap, re
 import numpy as np
 import requests
 from os import path
-from Yumikoo import Yumikoo, pytgcalls, userbot
+from FallenRobot import FallenRobot, pytgcalls, userbot
 from typing import Callable
 from pyrogram import filters, Client
 from pyrogram.types import *
-from Yumikoo.Helper.cust_p_filters import admin_filter
+from FallenRobot.Helper.cust_p_filters import admin_filter
 from youtube_search import YoutubeSearch
 from asyncio.queues import QueueEmpty
 from PIL import ImageGrab
 from PIL import Image, ImageFont, ImageDraw, ImageFilter
 from pyrogram.errors import UserAlreadyParticipant
-from Yumikoo.Helper.requirements import get_url, get_file_name, converter, downloader, admins as a, set_admins as set
-from Yumikoo.Helper import requirements as rq
-from Yumikoo.Helper.errors import DurationLimitError
+from FallenRobot.Helper.requirements import get_url, get_file_name, converter, downloader, admins as a, set_admins as set
+from FallenRobot.Helper import requirements as rq
+from FallenRobot.Helper.errors import DurationLimitError
 from pytgcalls.types import Update
 from pytgcalls.types import AudioPiped, AudioQuality, AudioParameters
-from Yumikoo.Helper.requirements import get_audio_stream
+from FallenRobot.Helper.requirements import get_audio_stream
 
 
 DURATION_LIMIT = 30000
